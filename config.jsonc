@@ -280,6 +280,11 @@
             "aliases": [],
             "categories": []
         },
+        "Drive Mad S": {
+            "path": "drive-mad-s",
+            "aliases": [],
+            "categories": []
+        },
         "Duck Life": {
             "path": "flash/?game=duck-life",
             "aliases": [],
@@ -355,6 +360,11 @@
             "aliases": [],
             "categories": []
         },
+        "Family Feud": {
+            "path": "family-feud",
+            "aliases": [],
+            "categories": []
+        },
         "Fireboy and Watergirl in the Forest Temple": {
             "path": "fireboy-and-watergirl",
             "aliases": ["Fireboy and Watergirl", "Fireboy and Watergirl 1"],
@@ -402,6 +412,21 @@
         },
         "Geometry Dash Remastered": {
             "path": "geometry-dash-remastered",
+            "aliases": [],
+            "categories": []
+        },
+        "Geometry Vibes": {
+            "path": "geometry-vibes",
+            "aliases": [],
+            "categories": []
+        },
+        "Geometry Vibes Monster": {
+            "path": "geometry-vibes-monster",
+            "aliases": [],
+            "categories": []
+        },
+        "Geometry Vibes X-Ball": {
+            "path": "geometry-vibes-x-ball",
             "aliases": [],
             "categories": []
         },
@@ -485,6 +510,11 @@
             "path": "flash/?game=learn-to-fly-idle",
             "aliases": [],
             "categories": []
+        },
+        "Lion Solider's Vengeance": {
+            "path": "lion-soldiers-vengeance",
+            "aliases": [],
+            "cateogires": []
         },
         "Idle Breakout": {
             "path": "idle-breakout",
@@ -686,6 +716,11 @@
             "aliases": [],
             "categories": []
         },
+        "Shadow Fight": {
+            "path": "shadow-fight",
+            "aliases": [],
+            "categories": []
+        },
         "Slope": {
             "path": "slope",
             "aliases": [],
@@ -698,6 +733,11 @@
         },
         "Soccer Random": {
             "path": "soccer-random",
+            "aliases": [],
+            "categories": []
+        },
+        "Station Saturn": {
+            "path": "station-saturn",
             "aliases": [],
             "categories": []
         },
